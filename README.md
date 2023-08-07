@@ -27,3 +27,5 @@
 - Red Team Dork: https://github.com/Ignitetechnologies/Mindmap/blob/main/Red%20Team%20Dorks/Red%20Team%20Dorks%20HD.png
 
 - DACL Attack mindmap: https://www.thehacker.recipes/ad/movement/dacl
+
+- https://github.com/Ignitetechnologies/Mindmap/tree/main/Tools
