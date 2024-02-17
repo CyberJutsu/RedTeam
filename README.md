@@ -30,3 +30,9 @@
 - [DACL Attack mindmap](https://www.thehacker.recipes/ad/movement/dacl) - @_nwodtuhs
 - [Tools](https://github.com/Ignitetechnologies/Mindmap/tree/main/Tools) - @hackinarticles
 </details>
+
+## Tools
+- https://github.com/A-poc/RedTeam-Tools
+- https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
+- https://lolbas-project.github.io/
+- https://gtfobins.github.io/
